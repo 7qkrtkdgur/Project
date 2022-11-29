@@ -1,1 +1,18 @@
-# Project
+#  명령어
+- add = git add 추가하다
+- commit = git commit 커밋하다
+- log = git log 로그 확인
+- show = git show 커밋 정보 확인
+- clone = git clone 복제
+- push = git push (원격저장소별칭 브랜치이름) 커밋 전송하기
+- pull = git pull 커밋 가져오기
+- fetch = git fetch 서버 브랜치 정보 갱신
+- merge = git merge (브랜치이름) 브랜치 병합
+- branch = git branch 현재 브랜치 확인
+- checkout = git checkout (브랜치이름) 브랜치 이동
+- switch = git switch (브랜치이름) 브랜치 이동
+- fast forward merge = 브랜치 병합(혼자 개발)
+- 3-way merge = 브랜치 병합(여러명 개발)
+- rebase = git rebase (브랜치이름) 리베이스 병합
+- reset = git reset (옵션 커밋ID) 리셋
+- revert = git revert (커밋위치) 리버트 취소 커밋
